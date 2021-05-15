@@ -1,0 +1,37 @@
+body {
+    color: white !important;
+    background-position: center;
+    background-size: cover;
+}
+canvas {
+    border: 4px black solid;
+    border-radius: 10px;
+    background: rgb(255,0,65);
+    background: linear-gradient(180deg, rgba(255,0,65,1) 0%, rgba(255,0,224,1) 50%, rgba(106,0,255,1) 100%);
+}
+video {
+    margin-top: 34%;
+    border: 4px black solid;
+    border-radius: 10px;
+}
+.heading {
+    font-size: x-large;
+    border-radius: 10px;
+    background: rgb(255,0,65);
+    background: linear-gradient(180deg, rgba(255,0,65,1) 0%, rgba(255,0,224,1) 50%, rgba(106,0,255,1) 100%);
+}
+.copyrightFooter {
+    font-size: larger;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background: rgb(255,64,0);
+    background: linear-gradient(180deg, rgba(255,64,0,1) 0%, rgba(255,149,0,1) 50%, rgba(224,255,0,1) 100%);
+}
+.fontSize {
+    font-size: x-large;
+    border-radius: 5px;
+    background: rgb(255,0,65);
+    background: linear-gradient(180deg, rgba(255,0,65,1) 0%, rgba(255,0,224,1) 50%, rgba(106,0,255,1) 100%);
+}
